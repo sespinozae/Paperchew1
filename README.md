@@ -1,4 +1,5 @@
-# Paperchew1
+# Theta oscillation entrainment by chewing
+
 Data and codes for reproducibility purposes
 
 1 - Behavioral datasets and codes are provided in .mat format.
